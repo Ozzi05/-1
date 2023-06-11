@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OSSI\\Desktop\\WORK 1\\Csharp\\домРабота с семинара\\task1\\task1.csproj": {}
+    "C:\\Users\\OSSI\\Desktop\\WORK 1\\Proekty\\задача.md\\задача.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OSSI\\Desktop\\WORK 1\\Csharp\\домРабота с семинара\\task1\\task1.csproj": {
+    "C:\\Users\\OSSI\\Desktop\\WORK 1\\Proekty\\задача.md\\задача.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OSSI\\Desktop\\WORK 1\\Csharp\\домРабота с семинара\\task1\\task1.csproj",
-        "projectName": "task1",
-        "projectPath": "C:\\Users\\OSSI\\Desktop\\WORK 1\\Csharp\\домРабота с семинара\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\OSSI\\Desktop\\WORK 1\\Proekty\\задача.md\\задача.csproj",
+        "projectName": "задача",
+        "projectPath": "C:\\Users\\OSSI\\Desktop\\WORK 1\\Proekty\\задача.md\\задача.csproj",
         "packagesPath": "C:\\Users\\OSSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OSSI\\Desktop\\WORK 1\\Csharp\\домРабота с семинара\\task1\\obj\\",
+        "outputPath": "C:\\Users\\OSSI\\Desktop\\WORK 1\\Proekty\\задача.md\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OSSI\\AppData\\Roaming\\NuGet\\NuGet.Config"
