@@ -25,4 +25,4 @@
 // int max2 = max (a2, b2, c2);
 // int max3 = max (a3, b3, c3);
 // int Max = max(max1, max2, max3);
-// System.Console.WriteLine(res)
+// System.Console.WriteLine(Max)
